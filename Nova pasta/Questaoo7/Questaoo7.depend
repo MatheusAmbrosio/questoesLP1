@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534547733 source:c:\users\aluno\desktop\nova pasta\questaoo7\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1534547774 c:\users\aluno\desktop\nova pasta\questaoo7\include\pessoa.h
+	<iostream>
+
+1534547717 source:c:\users\aluno\desktop\nova pasta\questaoo7\src\pessoa.cpp
+	"Pessoa.h"
+

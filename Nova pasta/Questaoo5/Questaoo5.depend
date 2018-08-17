@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534534403 source:c:\users\aluno\desktop\questaoo5\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534534403 c:\users\aluno\desktop\questaoo5\include\relogio.h
+
+1534534403 source:c:\users\aluno\desktop\questaoo5\src\relogio.cpp
+	"Relogio.h"
+

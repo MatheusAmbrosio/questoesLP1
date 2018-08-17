@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534537816 source:c:\users\aluno\desktop\questaoo6\main.cpp
+	<iostream>
+	"Televisao.h"
+
+1534535980 c:\users\aluno\desktop\questaoo6\include\televisao.h
+
+1534537823 source:c:\users\aluno\desktop\questaoo6\src\televisao.cpp
+	"Televisao.h"
+
