@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1534554135 source:c:\users\livinha\desktop\questoeslp1-master\questoeslp1-master\nova pasta\questaoo8\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+
+1534554390 c:\users\livinha\desktop\questoeslp1-master\questoeslp1-master\nova pasta\questaoo8\include\controledepagamentos.h
+	"Pagamento.h"
+	<string>
+
+1534554430 c:\users\livinha\desktop\questoeslp1-master\questoeslp1-master\nova pasta\questaoo8\include\pagamento.h
+	<string>
+
+1534777074 source:c:\users\aluno\desktop\nova pasta\questaoo8\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+
+1534536390 c:\users\aluno\desktop\nova pasta\questaoo8\include\controledepagamentos.h
+	"Pagamento.h"
+	<string>
+
+1534536430 c:\users\aluno\desktop\nova pasta\questaoo8\include\pagamento.h
+	<string>
+
+1534775354 source:c:\users\aluno\desktop\nova pasta\questaoo8\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
+1534775489 source:c:\users\aluno\desktop\nova pasta\questaoo8\src\pagamento.cpp
+	"Pagamento.h"
+

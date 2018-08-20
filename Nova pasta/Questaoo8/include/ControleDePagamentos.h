@@ -9,9 +9,9 @@ class ControleDePagamentos
 {
     public:
 
-        void setPagamentos(pagamento p);
+        void setPagamentos(string n, double v);
         double calculaTotalDePagamentos();
-        bool existePagamentoParaFuncionario(string n);
+        bool existePagamentoParaFuncionario(string getNomeDoFuncionario);
 
     private:
 
@@ -19,4 +19,4 @@ class ControleDePagamentos
 
 };
 
-#endif // CONTROLEDEPAGAMENTOS_H
+#endif

@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 class Pagamento
 {
     public:
@@ -21,4 +20,4 @@ class Pagamento
         string nomeDoFuncionario;
 };
 
-#endif // PAGAMENTO_H
+#endif

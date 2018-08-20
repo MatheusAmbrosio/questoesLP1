@@ -8,19 +8,19 @@ Pagamento::Pagamento()
     valorPagamento = 0;
 }
 
-void setValorPagamento(double v){
+void Pagamento::setValorPagamento(double v){
     valorPagamento = v;
 }
 
-void setNomeDoFuncionario(string n){
+void Pagamento::setNomeDoFuncionario(string n){
     nomeDoFuncionario = n;
 }
 
-double getValorPagamento(){
+double Pagamento::getValorPagamento(){
     return valorPagamento;
 }
 
-string getNomeDoFuncionario(){
+string Pagamento::getNomeDoFuncionario(){
     return nomeDoFuncionario;
 }
 
